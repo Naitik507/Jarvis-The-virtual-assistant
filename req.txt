@@ -1,0 +1,13 @@
+THE REQUIRED LIBRARIES:-
+
+1) speech_recognition
+2) pyttsx3
+
+DEFAULT PYTHON LIBRARIES:-
+
+3) webbrowser
+4) requests
+
+USER-BUILT MODULES:-
+
+5) musicLibrary
